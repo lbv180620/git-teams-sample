@@ -1,4 +1,4 @@
-name: Hello, World # ワークフロー名
+name: HelloWorld # ワークフロー名
 
 on: push # イベント名
 
